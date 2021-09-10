@@ -1,0 +1,3328 @@
+aditya@aditya:~/Academics/CS 765/A1/source_code$ time bash bash_executor.sh 
+g++ -O2 -c Simulator.cpp 
+g++ -O2 prog.cpp *.o
+num peers: 5
+1.79769e+308
+average block time: 0.00121593
+total transactions: 593
+average trans time: 0.0302414
+[5, 7, 12, 15, 11, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.000000,0.000100,0.001000,50)"
+
+real	0m2.742s
+user	0m5.248s
+sys	0m3.494s
+num peers: 5
+1.79769e+308
+average block time: 0.956702
+total transactions: 478
+average trans time: 0.569498
+[4, 31, 33, 35, 25, 21, 15, 15, 11, 7, 5, 3, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.000000,0.100000,1.000000,50)"
+
+real	0m2.752s
+user	0m5.314s
+sys	0m3.417s
+num peers: 5
+1.79769e+308
+average block time: 11.7156
+total transactions: 1125
+average trans time: 1.00934
+[38, 48, 31, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.000000,0.500000,10.000000,50)"
+
+real	0m2.771s
+user	0m5.364s
+sys	0m3.444s
+num peers: 5
+1.79769e+308
+average block time: 10.255
+total transactions: 243
+average trans time: 2.6187
+[50, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.000000,2.000000,10.000000,50)"
+
+real	0m2.666s
+user	0m5.239s
+sys	0m3.430s
+num peers: 5
+1.79769e+308
+average block time: 21.3976
+total transactions: 229
+average trans time: 5.17067
+[50, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.000000,5.000000,20.000000,50)"
+
+real	0m2.648s
+user	0m5.113s
+sys	0m3.550s
+num peers: 5
+1.79769e+308
+average block time: 58.1415
+total transactions: 282
+average trans time: 10.7734
+[50, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.000000,10.000000,50.000000,50)"
+
+real	0m2.656s
+user	0m5.200s
+sys	0m3.488s
+num peers: 5
+1.79769e+308
+average block time: 99.8079
+total transactions: 340
+average trans time: 15.1605
+[50, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.000000,15.000000,100.000000,50)"
+
+real	0m2.673s
+user	0m5.251s
+sys	0m3.457s
+num peers: 5
+1.79769e+308
+average block time: 585.952
+total transactions: 1455
+average trans time: 20.6171
+[50, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.000000,20.000000,600.000000,50)"
+
+real	0m2.716s
+user	0m5.352s
+sys	0m3.414s
+num peers: 5
+1.79769e+308
+average block time: 648.707
+total transactions: 5438
+average trans time: 6.46295
+[50, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.000000,6.000000,600.000000,50)"
+
+real	0m2.773s
+user	0m5.335s
+sys	0m3.457s
+num peers: 5
+1.79769e+308
+average block time: 0.00102149
+total transactions: 984
+average trans time: 0.0507116
+[13, 13, 22, 18, 34, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.000000,0.000100,0.001000,100)"
+
+real	0m3.254s
+user	0m5.744s
+sys	0m3.528s
+num peers: 5
+1.79769e+308
+average block time: 0.888037
+total transactions: 908
+average trans time: 0.581653
+[4, 31, 33, 44, 46, 46, 49, 54, 67, 69, 65, 63, 59, 56, 49, 40, 25, 21, 15, 15, 11, 7, 5, 3, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.000000,0.100000,1.000000,100)"
+
+real	0m3.229s
+user	0m5.672s
+sys	0m3.600s
+num peers: 5
+1.79769e+308
+average block time: 10.6478
+total transactions: 2112
+average trans time: 0.99823
+[38, 98, 31, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.000000,0.500000,10.000000,100)"
+
+real	0m3.216s
+user	0m5.696s
+sys	0m3.573s
+num peers: 5
+1.79769e+308
+average block time: 9.7642
+total transactions: 491
+average trans time: 2.49493
+[58, 98, 51, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.000000,2.000000,10.000000,100)"
+
+real	0m3.169s
+user	0m5.740s
+sys	0m3.456s
+num peers: 5
+1.79769e+308
+average block time: 19.5956
+total transactions: 406
+average trans time: 5.31999
+[100, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.000000,5.000000,20.000000,100)"
+
+real	0m3.106s
+user	0m5.620s
+sys	0m3.504s
+num peers: 5
+1.79769e+308
+average block time: 55.1837
+total transactions: 553
+average trans time: 10.4724
+[100, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.000000,10.000000,50.000000,100)"
+
+real	0m3.095s
+user	0m5.767s
+sys	0m3.374s
+num peers: 5
+1.79769e+308
+average block time: 100.735
+total transactions: 718
+average trans time: 14.5076
+[95, 99, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.000000,15.000000,100.000000,100)"
+
+real	0m3.141s
+user	0m5.807s
+sys	0m3.336s
+num peers: 5
+1.79769e+308
+average block time: 650.429
+total transactions: 3261
+average trans time: 20.4302
+[100, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.000000,20.000000,600.000000,100)"
+
+real	0m3.117s
+user	0m5.667s
+sys	0m3.492s
+num peers: 5
+1.79769e+308
+average block time: 0.001036
+total transactions: 507
+average trans time: 0.0256077
+[5, 6, 8, 11, 20, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.500000,0.000100,0.001000,50)"
+
+real	0m2.734s
+user	0m5.233s
+sys	0m3.545s
+num peers: 5
+1.79769e+308
+average block time: 0.981306
+total transactions: 490
+average trans time: 0.614984
+[7, 15, 17, 29, 29, 39, 24, 22, 19, 12, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.500000,0.100000,1.000000,50)"
+
+real	0m2.745s
+user	0m5.323s
+sys	0m3.501s
+num peers: 5
+1.79769e+308
+average block time: 9.98472
+total transactions: 944
+average trans time: 1.02648
+[27, 49, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.500000,0.500000,10.000000,50)"
+
+real	0m2.763s
+user	0m5.510s
+sys	0m3.300s
+num peers: 5
+1.79769e+308
+average block time: 11.1524
+total transactions: 272
+average trans time: 2.52466
+[49, 48, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.500000,2.000000,10.000000,50)"
+
+real	0m2.754s
+user	0m5.251s
+sys	0m3.535s
+num peers: 5
+1.79769e+308
+average block time: 18.9378
+total transactions: 186
+average trans time: 5.53633
+[11, 49, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.500000,5.000000,20.000000,50)"
+
+real	0m2.748s
+user	0m5.356s
+sys	0m3.388s
+num peers: 5
+1.79769e+308
+average block time: 57.8557
+total transactions: 285
+average trans time: 10.6409
+[49, 13, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.500000,10.000000,50.000000,50)"
+
+real	0m2.745s
+user	0m5.318s
+sys	0m3.497s
+num peers: 5
+1.79769e+308
+average block time: 112.38
+total transactions: 366
+average trans time: 15.8354
+[50, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.500000,15.000000,100.000000,50)"
+
+real	0m2.669s
+user	0m5.258s
+sys	0m3.452s
+num peers: 5
+1.79769e+308
+average block time: 613.45
+total transactions: 1521
+average trans time: 20.6553
+[50, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.500000,20.000000,600.000000,50)"
+
+real	0m2.681s
+user	0m5.222s
+sys	0m3.467s
+num peers: 5
+1.79769e+308
+average block time: 542.378
+total transactions: 4609
+average trans time: 6.38524
+[50, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.500000,6.000000,600.000000,50)"
+
+real	0m2.761s
+user	0m5.268s
+sys	0m3.513s
+num peers: 5
+1.79769e+308
+average block time: 0.00100852
+total transactions: 1032
+average trans time: 0.0507677
+[11, 21, 17, 32, 19, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.500000,0.000100,0.001000,100)"
+
+real	0m3.235s
+user	0m5.764s
+sys	0m3.505s
+num peers: 5
+1.79769e+308
+average block time: 0.960276
+total transactions: 969
+average trans time: 0.587517
+[7, 15, 17, 29, 29, 43, 67, 79, 79, 76, 69, 58, 49, 46, 24, 22, 19, 12, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.500000,0.100000,1.000000,100)"
+
+real	0m3.257s
+user	0m5.739s
+sys	0m3.586s
+num peers: 5
+1.79769e+308
+average block time: 11.4637
+total transactions: 2272
+average trans time: 0.997537
+[27, 64, 97, 57, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.500000,0.500000,10.000000,100)"
+
+real	0m3.234s
+user	0m5.710s
+sys	0m3.571s
+num peers: 5
+1.79769e+308
+average block time: 11.1335
+total transactions: 524
+average trans time: 2.6112
+[68, 70, 97, 48, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.500000,2.000000,10.000000,100)"
+
+real	0m3.140s
+user	0m5.605s
+sys	0m3.560s
+num peers: 5
+1.79769e+308
+average block time: 20.0287
+total transactions: 397
+average trans time: 5.52481
+[11, 99, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.500000,5.000000,20.000000,100)"
+
+real	0m3.158s
+user	0m5.496s
+sys	0m3.668s
+num peers: 5
+1.79769e+308
+average block time: 51.7688
+total transactions: 510
+average trans time: 10.6331
+[99, 13, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.500000,10.000000,50.000000,100)"
+
+real	0m3.169s
+user	0m5.610s
+sys	0m3.573s
+num peers: 5
+1.79769e+308
+average block time: 105.804
+total transactions: 679
+average trans time: 16.047
+[100, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.500000,15.000000,100.000000,100)"
+
+real	0m3.089s
+user	0m5.549s
+sys	0m3.555s
+num peers: 5
+1.79769e+308
+average block time: 600.848
+total transactions: 2997
+average trans time: 20.5466
+[100, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,0.500000,20.000000,600.000000,100)"
+
+real	0m3.146s
+user	0m5.819s
+sys	0m3.345s
+num peers: 5
+1.79769e+308
+average block time: 0.001036
+total transactions: 507
+average trans time: 0.0256077
+[5, 6, 8, 20, 11, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,1.000000,0.000100,0.001000,50)"
+
+real	0m2.795s
+user	0m5.360s
+sys	0m3.462s
+num peers: 5
+1.79769e+308
+average block time: 1.27242
+total transactions: 560
+average trans time: 0.602376
+[7, 17, 19, 27, 32, 34, 40, 40, 37, 14, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,1.000000,0.100000,1.000000,50)"
+
+real	0m2.722s
+user	0m5.220s
+sys	0m3.521s
+num peers: 5
+1.79769e+308
+average block time: 8.87585
+total transactions: 867
+average trans time: 1.00883
+[40, 44, 48, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,1.000000,0.500000,10.000000,50)"
+
+real	0m2.737s
+user	0m5.333s
+sys	0m3.401s
+num peers: 5
+1.79769e+308
+average block time: 8.30469
+total transactions: 193
+average trans time: 2.61864
+[30, 49, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,1.000000,2.000000,10.000000,50)"
+
+real	0m2.772s
+user	0m5.324s
+sys	0m3.506s
+num peers: 5
+1.79769e+308
+average block time: 21.516
+total transactions: 225
+average trans time: 5.3113
+[49, 38, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,1.000000,5.000000,20.000000,50)"
+
+real	0m2.722s
+user	0m5.204s
+sys	0m3.544s
+num peers: 5
+1.79769e+308
+average block time: 60.0381
+total transactions: 317
+average trans time: 9.92002
+[50, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,1.000000,10.000000,50.000000,50)"
+
+real	0m2.768s
+user	0m5.304s
+sys	0m3.455s
+num peers: 5
+1.79769e+308
+average block time: 134.792
+total transactions: 426
+average trans time: 16.2758
+[50, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,1.000000,15.000000,100.000000,50)"
+
+real	0m2.797s
+user	0m5.307s
+sys	0m3.450s
+num peers: 5
+1.79769e+308
+average block time: 519.055
+total transactions: 1298
+average trans time: 20.4931
+[50, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,1.000000,20.000000,600.000000,50)"
+
+real	0m2.738s
+user	0m5.326s
+sys	0m3.550s
+num peers: 5
+1.79769e+308
+average block time: 634.822
+total transactions: 5353
+average trans time: 6.42544
+[50, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,1.000000,6.000000,600.000000,50)"
+
+real	0m2.836s
+user	0m5.394s
+sys	0m3.351s
+num peers: 5
+1.79769e+308
+average block time: 0.00100852
+total transactions: 1032
+average trans time: 0.0507677
+[11, 21, 32, 17, 19, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,1.000000,0.000100,0.001000,100)"
+
+real	0m3.370s
+user	0m5.768s
+sys	0m3.288s
+num peers: 5
+1.79769e+308
+average block time: 1.14837
+total transactions: 1092
+average trans time: 0.603034
+[7, 17, 19, 27, 32, 34, 40, 42, 58, 74, 79, 79, 81, 81, 63, 54, 50, 37, 14, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,1.000000,0.100000,1.000000,100)"
+
+real	0m3.322s
+user	0m5.904s
+sys	0m3.414s
+num peers: 5
+1.79769e+308
+average block time: 8.65267
+total transactions: 1675
+average trans time: 1.00754
+[40, 44, 98, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,1.000000,0.500000,10.000000,100)"
+
+real	0m3.282s
+user	0m5.697s
+sys	0m3.639s
+num peers: 5
+1.79769e+308
+average block time: 9.57294
+total transactions: 467
+average trans time: 2.48443
+[30, 77, 97, 49, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,1.000000,2.000000,10.000000,100)"
+
+real	0m3.229s
+user	0m5.718s
+sys	0m3.477s
+num peers: 5
+1.79769e+308
+average block time: 21.4692
+total transactions: 448
+average trans time: 5.2868
+[97, 79, 38, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,1.000000,5.000000,20.000000,100)"
+
+real	0m3.239s
+user	0m5.728s
+sys	0m3.466s
+num peers: 5
+1.79769e+308
+average block time: 58.2481
+total transactions: 629
+average trans time: 9.73277
+[65, 99, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,1.000000,10.000000,50.000000,100)"
+
+real	0m3.214s
+user	0m5.574s
+sys	0m3.557s
+num peers: 5
+1.79769e+308
+average block time: 121.643
+total transactions: 781
+average trans time: 16.0641
+[100, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,1.000000,15.000000,100.000000,100)"
+
+real	0m3.182s
+user	0m5.656s
+sys	0m3.367s
+num peers: 5
+1.79769e+308
+average block time: 624.604
+total transactions: 3167
+average trans time: 20.2182
+[100, ]
+[16.2874, 19.4516, 25.2248, 20.403, 18.6332, ]
+python ./Visual/create_graph.py 570436 num_peers5
+python ./Visual/create_blockchain.py 570436 "(5,1.000000,20.000000,600.000000,100)"
+
+real	0m3.532s
+user	0m6.040s
+sys	0m3.377s
+num peers: 10
+1.79769e+308
+average block time: 0.00114384
+total transactions: 531
+average trans time: 0.0288014
+[1, 4, 9, 5, 11, 4, 2, 5, 2, 7, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.000000,0.000100,0.001000,50)"
+
+real	0m3.094s
+user	0m5.457s
+sys	0m3.532s
+num peers: 10
+1.79769e+308
+average block time: 0.871462
+total transactions: 441
+average trans time: 0.587834
+[6, 17, 24, 34, 34, 30, 27, 22, 20, 14, 14, 10, 8, 5, 2, 1, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.000000,0.100000,1.000000,50)"
+
+real	0m3.035s
+user	0m5.582s
+sys	0m3.311s
+num peers: 10
+1.79769e+308
+average block time: 10.7882
+total transactions: 1092
+average trans time: 0.991371
+[8, 42, 48, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.000000,0.500000,10.000000,50)"
+
+real	0m3.107s
+user	0m5.591s
+sys	0m3.336s
+num peers: 10
+1.79769e+308
+average block time: 15.1053
+total transactions: 353
+average trans time: 2.64091
+[50, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.000000,2.000000,10.000000,50)"
+
+real	0m2.891s
+user	0m5.464s
+sys	0m3.485s
+num peers: 10
+1.79769e+308
+average block time: 21.4472
+total transactions: 213
+average trans time: 5.48669
+[50, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.000000,5.000000,20.000000,50)"
+
+real	0m2.851s
+user	0m5.386s
+sys	0m3.472s
+num peers: 10
+1.79769e+308
+average block time: 51.4126
+total transactions: 243
+average trans time: 11.0995
+[2, 48, 45, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.000000,10.000000,50.000000,50)"
+
+real	0m2.908s
+user	0m5.352s
+sys	0m3.588s
+num peers: 10
+1.79769e+308
+average block time: 118.63
+total transactions: 407
+average trans time: 15.0434
+[50, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.000000,15.000000,100.000000,50)"
+
+real	0m2.876s
+user	0m5.414s
+sys	0m3.495s
+num peers: 10
+1.79769e+308
+average block time: 579.834
+total transactions: 1376
+average trans time: 21.5604
+[50, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.000000,20.000000,600.000000,50)"
+
+real	0m2.899s
+user	0m5.629s
+sys	0m3.266s
+num peers: 10
+1.79769e+308
+average block time: 757.608
+total transactions: 6412
+average trans time: 6.40512
+[50, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.000000,6.000000,600.000000,50)"
+
+real	0m3.227s
+user	0m5.674s
+sys	0m3.567s
+num peers: 10
+1.79769e+308
+average block time: 0.00119696
+total transactions: 1151
+average trans time: 0.0612366
+[2, 9, 19, 9, 17, 2, 12, 10, 14, 6, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.000000,0.000100,0.001000,100)"
+
+real	0m3.420s
+user	0m5.842s
+sys	0m3.593s
+num peers: 10
+1.79769e+308
+average block time: 1.00983
+total transactions: 1004
+average trans time: 0.587468
+[6, 17, 24, 48, 70, 69, 68, 65, 58, 54, 51, 49, 47, 44, 41, 40, 38, 37, 34, 30, 27, 22, 20, 14, 14, 10, 8, 5, 2, 1, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.000000,0.100000,1.000000,100)"
+
+real	0m3.459s
+user	0m5.916s
+sys	0m3.806s
+num peers: 10
+1.79769e+308
+average block time: 11.3901
+total transactions: 2306
+average trans time: 0.999844
+[8, 42, 87, 93, 96, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.000000,0.500000,10.000000,100)"
+
+real	0m3.443s
+user	0m5.815s
+sys	0m3.662s
+num peers: 10
+1.79769e+308
+average block time: 11.6257
+total transactions: 548
+average trans time: 2.63818
+[79, 93, 97, 68, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.000000,2.000000,10.000000,100)"
+
+real	0m3.362s
+user	0m5.858s
+sys	0m3.515s
+num peers: 10
+1.79769e+308
+average block time: 18.5405
+total transactions: 372
+average trans time: 5.47833
+[100, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.000000,5.000000,20.000000,100)"
+
+real	0m3.288s
+user	0m5.914s
+sys	0m3.371s
+num peers: 10
+1.79769e+308
+average block time: 54.0278
+total transactions: 529
+average trans time: 10.7151
+[2, 98, 45, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.000000,10.000000,50.000000,100)"
+
+real	0m3.340s
+user	0m5.834s
+sys	0m3.513s
+num peers: 10
+1.79769e+308
+average block time: 104.105
+total transactions: 682
+average trans time: 15.7282
+[100, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.000000,15.000000,100.000000,100)"
+
+real	0m3.266s
+user	0m5.813s
+sys	0m3.460s
+num peers: 10
+1.79769e+308
+average block time: 550.035
+total transactions: 2648
+average trans time: 21.2575
+[100, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.000000,20.000000,600.000000,100)"
+
+real	0m3.387s
+user	0m5.942s
+sys	0m3.450s
+num peers: 10
+1.79769e+308
+average block time: 0.00114384
+total transactions: 531
+average trans time: 0.0288014
+[1, 4, 9, 5, 11, 4, 2, 2, 5, 7, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.500000,0.000100,0.001000,50)"
+
+real	0m2.939s
+user	0m5.461s
+sys	0m3.479s
+num peers: 10
+1.79769e+308
+average block time: 1.05826
+total transactions: 519
+average trans time: 0.615018
+[26, 31, 36, 30, 24, 23, 19, 16, 13, 12, 10, 8, 5, 1, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.500000,0.100000,1.000000,50)"
+
+real	0m2.943s
+user	0m5.645s
+sys	0m3.307s
+num peers: 10
+1.79769e+308
+average block time: 10.1017
+total transactions: 972
+average trans time: 1.01425
+[50, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.500000,0.500000,10.000000,50)"
+
+real	0m2.855s
+user	0m5.282s
+sys	0m3.581s
+num peers: 10
+1.79769e+308
+average block time: 13.0671
+total transactions: 332
+average trans time: 2.48254
+[15, 49, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.500000,2.000000,10.000000,50)"
+
+real	0m2.871s
+user	0m5.303s
+sys	0m3.549s
+num peers: 10
+1.79769e+308
+average block time: 18.7703
+total transactions: 168
+average trans time: 6.06255
+[50, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.500000,5.000000,20.000000,50)"
+
+real	0m2.842s
+user	0m5.352s
+sys	0m3.468s
+num peers: 10
+1.79769e+308
+average block time: 42.3489
+total transactions: 195
+average trans time: 11.2215
+[2, 49, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.500000,10.000000,50.000000,50)"
+
+real	0m2.905s
+user	0m5.386s
+sys	0m3.658s
+num peers: 10
+1.79769e+308
+average block time: 85.1699
+total transactions: 271
+average trans time: 16.1868
+[50, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.500000,15.000000,100.000000,50)"
+
+real	0m2.839s
+user	0m5.366s
+sys	0m3.488s
+num peers: 10
+1.79769e+308
+average block time: 556.251
+total transactions: 1414
+average trans time: 20.1556
+[50, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.500000,20.000000,600.000000,50)"
+
+real	0m2.868s
+user	0m5.504s
+sys	0m3.350s
+num peers: 10
+1.79769e+308
+average block time: 707.876
+total transactions: 5933
+average trans time: 6.46331
+[50, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.500000,6.000000,600.000000,50)"
+
+real	0m3.217s
+user	0m5.863s
+sys	0m3.478s
+num peers: 10
+1.79769e+308
+average block time: 0.00122183
+total transactions: 1187
+average trans time: 0.0624003
+[4, 7, 20, 10, 16, 2, 7, 7, 11, 12, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.500000,0.000100,0.001000,100)"
+
+real	0m3.362s
+user	0m5.896s
+sys	0m3.461s
+num peers: 10
+1.79769e+308
+average block time: 0.979982
+total transactions: 960
+average trans time: 0.617078
+[26, 31, 37, 39, 40, 45, 58, 61, 66, 65, 62, 59, 58, 55, 51, 51, 50, 47, 46, 45, 30, 24, 23, 19, 16, 13, 12, 10, 8, 5, 1, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.500000,0.100000,1.000000,100)"
+
+real	0m3.431s
+user	0m5.992s
+sys	0m3.620s
+num peers: 10
+1.79769e+308
+average block time: 10.9105
+total transactions: 2181
+average trans time: 0.995734
+[99, 50, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.500000,0.500000,10.000000,100)"
+
+real	0m3.444s
+user	0m5.940s
+sys	0m3.488s
+num peers: 10
+1.79769e+308
+average block time: 11.241
+total transactions: 562
+average trans time: 2.51405
+[15, 99, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.500000,2.000000,10.000000,100)"
+
+real	0m3.325s
+user	0m5.966s
+sys	0m3.368s
+num peers: 10
+1.79769e+308
+average block time: 19.0294
+total transactions: 357
+average trans time: 5.80835
+[99, 51, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.500000,5.000000,20.000000,100)"
+
+real	0m3.317s
+user	0m5.869s
+sys	0m3.495s
+num peers: 10
+1.79769e+308
+average block time: 46.8591
+total transactions: 457
+average trans time: 10.7364
+[2, 98, 95, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.500000,10.000000,50.000000,100)"
+
+real	0m3.330s
+user	0m5.972s
+sys	0m3.384s
+num peers: 10
+1.79769e+308
+average block time: 105.094
+total transactions: 691
+average trans time: 15.7018
+[100, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.500000,15.000000,100.000000,100)"
+
+real	0m3.268s
+user	0m5.871s
+sys	0m3.420s
+num peers: 10
+1.79769e+308
+average block time: 603.373
+total transactions: 3034
+average trans time: 20.3823
+[100, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,0.500000,20.000000,600.000000,100)"
+
+real	0m3.420s
+user	0m6.112s
+sys	0m3.304s
+num peers: 10
+1.79769e+308
+average block time: 0.00111653
+total transactions: 512
+average trans time: 0.0277632
+[1, 7, 7, 5, 1, 2, 11, 4, 5, 7, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,1.000000,0.000100,0.001000,50)"
+
+real	0m2.926s
+user	0m5.384s
+sys	0m3.537s
+num peers: 10
+1.79769e+308
+average block time: 0.976454
+total transactions: 487
+average trans time: 0.595086
+[4, 11, 18, 18, 21, 30, 30, 29, 27, 25, 16, 10, 11, 9, 9, 1, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,1.000000,0.100000,1.000000,50)"
+
+real	0m3.025s
+user	0m5.472s
+sys	0m3.412s
+num peers: 10
+1.79769e+308
+average block time: 7.8494
+total transactions: 794
+average trans time: 0.992366
+[48, 36, 18, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,1.000000,0.500000,10.000000,50)"
+
+real	0m2.929s
+user	0m5.576s
+sys	0m3.517s
+num peers: 10
+1.79769e+308
+average block time: 11.48
+total transactions: 286
+average trans time: 2.50726
+[40, 49, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,1.000000,2.000000,10.000000,50)"
+
+real	0m2.893s
+user	0m5.497s
+sys	0m3.393s
+num peers: 10
+1.79769e+308
+average block time: 20.7878
+total transactions: 218
+average trans time: 5.25582
+[49, 14, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,1.000000,5.000000,20.000000,50)"
+
+real	0m2.914s
+user	0m5.606s
+sys	0m3.493s
+num peers: 10
+1.79769e+308
+average block time: 49.7801
+total transactions: 262
+average trans time: 9.96767
+[2, 49, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,1.000000,10.000000,50.000000,50)"
+
+real	0m2.860s
+user	0m5.525s
+sys	0m3.361s
+num peers: 10
+1.79769e+308
+average block time: 103.095
+total transactions: 348
+average trans time: 15.2958
+[50, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,1.000000,15.000000,100.000000,50)"
+
+real	0m2.839s
+user	0m5.363s
+sys	0m3.466s
+num peers: 10
+1.79769e+308
+average block time: 553.949
+total transactions: 1380
+average trans time: 20.5627
+[50, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,1.000000,20.000000,600.000000,50)"
+
+real	0m2.871s
+user	0m5.429s
+sys	0m3.432s
+num peers: 10
+1.79769e+308
+average block time: 637.25
+total transactions: 5197
+average trans time: 6.62901
+[50, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,1.000000,6.000000,600.000000,50)"
+
+real	0m3.093s
+user	0m5.617s
+sys	0m3.474s
+num peers: 10
+1.79769e+308
+average block time: 0.00107412
+total transactions: 1010
+average trans time: 0.0542658
+[2, 14, 10, 12, 20, 9, 8, 10, 5, 10, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,1.000000,0.000100,0.001000,100)"
+
+real	0m3.427s
+user	0m5.857s
+sys	0m3.574s
+num peers: 10
+1.79769e+308
+Invalid Block Generated!
+average block time: 0.928934
+total transactions: 963
+average trans time: 0.600276
+[4, 11, 18, 18, 21, 31, 33, 35, 34, 42, 43, 55, 61, 61, 58, 57, 45, 40, 40, 39, 32, 29, 27, 25, 16, 10, 11, 9, 9, 1, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,1.000000,0.100000,1.000000,100)"
+
+real	0m3.391s
+user	0m6.007s
+sys	0m3.336s
+num peers: 10
+1.79769e+308
+average block time: 8.87603
+total transactions: 1837
+average trans time: 0.977438
+[94, 78, 70, 61, 49, 36, 18, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,1.000000,0.500000,10.000000,100)"
+
+real	0m3.393s
+user	0m5.972s
+sys	0m3.435s
+num peers: 10
+1.79769e+308
+average block time: 10.8605
+total transactions: 554
+average trans time: 2.4633
+[40, 80, 82, 95, 82, 78, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,1.000000,2.000000,10.000000,100)"
+
+real	0m3.306s
+user	0m5.928s
+sys	0m3.392s
+num peers: 10
+1.79769e+308
+average block time: 20.2537
+total transactions: 419
+average trans time: 5.34065
+[99, 14, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,1.000000,5.000000,20.000000,100)"
+
+real	0m3.297s
+user	0m6.000s
+sys	0m3.487s
+num peers: 10
+1.79769e+308
+average block time: 54.5684
+total transactions: 536
+average trans time: 10.652
+[2, 99, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,1.000000,10.000000,50.000000,100)"
+
+real	0m3.355s
+user	0m5.931s
+sys	0m3.631s
+num peers: 10
+1.79769e+308
+average block time: 106.807
+total transactions: 719
+average trans time: 15.3496
+[100, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,1.000000,15.000000,100.000000,100)"
+
+real	0m3.261s
+user	0m5.940s
+sys	0m3.503s
+num peers: 10
+1.79769e+308
+average block time: 591.728
+total transactions: 2974
+average trans time: 20.3873
+[100, ]
+[5.19588, 7.23868, 10.9659, 7.85292, 6.7103, 15.0964, 9.60694, 15.5144, 7.34246, 14.4762, ]
+python ./Visual/create_graph.py 570436 num_peers10
+python ./Visual/create_blockchain.py 570436 "(10,1.000000,20.000000,600.000000,100)"
+
+real	0m3.383s
+user	0m6.085s
+sys	0m3.354s
+num peers: 20
+1.79769e+308
+average block time: 0.000923209
+total transactions: 460
+average trans time: 0.0233944
+[1, 4, 4, 3, 1, 5, 5, 1, 5, 4, 1, 3, 2, 4, 4, 3, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.000000,0.000100,0.001000,50)"
+
+real	0m3.644s
+user	0m6.199s
+sys	0m3.425s
+num peers: 20
+1.79769e+308
+average block time: 1.10989
+total transactions: 554
+average trans time: 0.580443
+[12, 29, 32, 40, 42, 36, 6, 1, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.000000,0.100000,1.000000,50)"
+
+real	0m3.641s
+user	0m6.086s
+sys	0m3.537s
+num peers: 20
+1.79769e+308
+average block time: 8.49348
+total transactions: 840
+average trans time: 1.00512
+[50, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.000000,0.500000,10.000000,50)"
+
+real	0m3.621s
+user	0m6.334s
+sys	0m3.291s
+num peers: 20
+1.79769e+308
+average block time: 9.73646
+total transactions: 249
+average trans time: 2.42918
+[17, 48, 44, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.000000,2.000000,10.000000,50)"
+
+real	0m3.572s
+user	0m6.119s
+sys	0m3.611s
+num peers: 20
+1.79769e+308
+average block time: 20.2604
+total transactions: 221
+average trans time: 5.04255
+[50, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.000000,5.000000,20.000000,50)"
+
+real	0m3.554s
+user	0m6.301s
+sys	0m3.420s
+num peers: 20
+1.79769e+308
+average block time: 38.3835
+total transactions: 184
+average trans time: 10.9166
+[50, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.000000,10.000000,50.000000,50)"
+
+real	0m3.521s
+user	0m6.102s
+sys	0m3.440s
+num peers: 20
+1.79769e+308
+average block time: 103.765
+total transactions: 340
+average trans time: 15.709
+[50, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.000000,15.000000,100.000000,50)"
+
+real	0m3.520s
+user	0m5.855s
+sys	0m3.652s
+num peers: 20
+1.79769e+308
+average block time: 583.526
+total transactions: 1496
+average trans time: 19.9678
+[50, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.000000,20.000000,600.000000,50)"
+
+real	0m3.752s
+user	0m6.369s
+sys	0m3.384s
+num peers: 20
+1.79769e+308
+average block time: 618.723
+total transactions: 5178
+average trans time: 6.47408
+[50, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.000000,6.000000,600.000000,50)"
+
+real	0m4.742s
+user	0m7.278s
+sys	0m3.466s
+num peers: 20
+1.79769e+308
+average block time: 0.00102771
+total transactions: 1052
+average trans time: 0.0516843
+[1, 6, 8, 8, 5, 14, 2, 4, 1, 5, 1, 8, 5, 10, 7, 3, 2, 5, 4, 1, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.000000,0.000100,0.001000,100)"
+
+real	0m4.254s
+user	0m6.673s
+sys	0m3.587s
+num peers: 20
+1.79769e+308
+average block time: 1.03989
+total transactions: 1033
+average trans time: 0.596181
+[12, 29, 32, 40, 66, 76, 80, 75, 75, 65, 61, 53, 53, 47, 46, 44, 36, 6, 1, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.000000,0.100000,1.000000,100)"
+
+real	0m4.233s
+user	0m6.758s
+sys	0m3.462s
+num peers: 20
+1.79769e+308
+average block time: 9.98351
+total transactions: 1987
+average trans time: 1.00528
+[87, 98, 92, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.000000,0.500000,10.000000,100)"
+
+real	0m4.469s
+user	0m7.044s
+sys	0m3.436s
+num peers: 20
+1.79769e+308
+average block time: 10.0463
+total transactions: 512
+average trans time: 2.44198
+[17, 97, 53, 44, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.000000,2.000000,10.000000,100)"
+
+real	0m4.038s
+user	0m6.600s
+sys	0m3.421s
+num peers: 20
+1.79769e+308
+average block time: 19.7385
+total transactions: 413
+average trans time: 5.25282
+[67, 98, 80, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.000000,5.000000,20.000000,100)"
+
+real	0m4.065s
+user	0m6.596s
+sys	0m3.467s
+num peers: 20
+1.79769e+308
+average block time: 39.5147
+total transactions: 400
+average trans time: 10.3735
+[100, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.000000,10.000000,50.000000,100)"
+
+real	0m3.942s
+user	0m6.449s
+sys	0m3.677s
+num peers: 20
+1.79769e+308
+average block time: 106.875
+total transactions: 701
+average trans time: 15.6918
+[100, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.000000,15.000000,100.000000,100)"
+
+real	0m4.023s
+user	0m6.656s
+sys	0m3.516s
+num peers: 20
+1.79769e+308
+average block time: 627.263
+total transactions: 3212
+average trans time: 20.0217
+[100, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.000000,20.000000,600.000000,100)"
+
+real	0m4.744s
+user	0m7.272s
+sys	0m3.475s
+num peers: 20
+1.79769e+308
+average block time: 0.00114485
+total transactions: 553
+average trans time: 0.0281894
+[1, 4, 5, 2, 8, 3, 1, 6, 1, 6, 3, 1, 3, 1, 1, 2, 2, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.500000,0.000100,0.001000,50)"
+
+real	0m3.651s
+user	0m6.289s
+sys	0m3.340s
+num peers: 20
+1.79769e+308
+average block time: 0.699608
+total transactions: 343
+average trans time: 0.609162
+[9, 15, 30, 32, 32, 26, 26, 20, 17, 17, 14, 14, 14, 12, 1, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.500000,0.100000,1.000000,50)"
+
+real	0m3.633s
+user	0m6.047s
+sys	0m3.588s
+num peers: 20
+1.79769e+308
+average block time: 8.35618
+total transactions: 792
+average trans time: 1.02642
+[49, 25, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.500000,0.500000,10.000000,50)"
+
+real	0m3.698s
+user	0m6.290s
+sys	0m3.557s
+num peers: 20
+1.79769e+308
+average block time: 10.0709
+total transactions: 242
+average trans time: 2.5634
+[46, 44, 38, 35, 11, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.500000,2.000000,10.000000,50)"
+
+real	0m3.590s
+user	0m6.148s
+sys	0m3.430s
+num peers: 20
+1.79769e+308
+average block time: 16.0596
+total transactions: 169
+average trans time: 5.19501
+[49, 46, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.500000,5.000000,20.000000,50)"
+
+real	0m3.576s
+user	0m6.072s
+sys	0m3.470s
+num peers: 20
+1.79769e+308
+average block time: 41.1781
+total transactions: 222
+average trans time: 9.71857
+[49, 29, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.500000,10.000000,50.000000,50)"
+
+real	0m3.581s
+user	0m6.056s
+sys	0m3.488s
+num peers: 20
+1.79769e+308
+average block time: 92.5429
+total transactions: 316
+average trans time: 15.143
+[49, 46, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.500000,15.000000,100.000000,50)"
+
+real	0m3.576s
+user	0m6.063s
+sys	0m3.532s
+num peers: 20
+1.79769e+308
+average block time: 574.931
+total transactions: 1389
+average trans time: 21.1408
+[50, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.500000,20.000000,600.000000,50)"
+
+real	0m3.713s
+user	0m6.163s
+sys	0m3.564s
+num peers: 20
+1.79769e+308
+average block time: 535.379
+total transactions: 4504
+average trans time: 6.44005
+[50, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.500000,6.000000,600.000000,50)"
+
+real	0m4.485s
+user	0m6.909s
+sys	0m3.570s
+num peers: 20
+1.79769e+308
+Invalid Block Generated!
+average block time: 0.000995344
+total transactions: 974
+average trans time: 0.0500459
+[1, 5, 10, 14, 1, 4, 1, 3, 8, 18, 6, 8, 2, 3, 2, 1, 6, 7, 1, 2, 1, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.500000,0.000100,0.001000,100)"
+
+real	0m4.251s
+user	0m7.004s
+sys	0m3.271s
+num peers: 20
+1.79769e+308
+average block time: 0.787779
+total transactions: 795
+average trans time: 0.606671
+[9, 15, 30, 32, 51, 53, 63, 68, 67, 65, 62, 61, 60, 58, 55, 39, 38, 36, 35, 26, 26, 20, 17, 17, 14, 14, 14, 12, 1, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.500000,0.100000,1.000000,100)"
+
+real	0m4.207s
+user	0m6.628s
+sys	0m3.551s
+num peers: 20
+1.79769e+308
+average block time: 9.68853
+total transactions: 1861
+average trans time: 1.02447
+[98, 93, 25, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.500000,0.500000,10.000000,100)"
+
+real	0m4.398s
+user	0m6.908s
+sys	0m3.459s
+num peers: 20
+1.79769e+308
+average block time: 10.4583
+total transactions: 495
+average trans time: 2.58755
+[96, 44, 38, 35, 11, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.500000,2.000000,10.000000,100)"
+
+real	0m4.033s
+user	0m6.627s
+sys	0m3.591s
+num peers: 20
+1.79769e+308
+average block time: 17.5805
+total transactions: 353
+average trans time: 5.44377
+[54, 97, 92, 46, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.500000,5.000000,20.000000,100)"
+
+real	0m4.129s
+user	0m6.541s
+sys	0m3.608s
+num peers: 20
+1.79769e+308
+average block time: 45.021
+total transactions: 465
+average trans time: 10.1519
+[99, 29, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.500000,10.000000,50.000000,100)"
+
+real	0m4.160s
+user	0m6.412s
+sys	0m3.592s
+num peers: 20
+1.79769e+308
+average block time: 99.861
+total transactions: 668
+average trans time: 15.4624
+[99, 46, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.500000,15.000000,100.000000,100)"
+
+real	0m4.600s
+user	0m6.719s
+sys	0m3.207s
+num peers: 20
+1.79769e+308
+average block time: 690.08
+total transactions: 3409
+average trans time: 20.7322
+[100, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,0.500000,20.000000,600.000000,100)"
+
+real	0m4.819s
+user	0m7.332s
+sys	0m3.419s
+num peers: 20
+1.79769e+308
+average block time: 0.00114925
+total transactions: 556
+average trans time: 0.028346
+[1, 4, 6, 1, 3, 3, 5, 1, 1, 2, 8, 1, 1, 3, 2, 5, 2, 1, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,1.000000,0.000100,0.001000,50)"
+
+real	0m3.669s
+user	0m6.209s
+sys	0m3.444s
+num peers: 20
+1.79769e+308
+average block time: 1.21195
+total transactions: 594
+average trans time: 0.600276
+[2, 2, 13, 18, 25, 35, 34, 31, 31, 20, 16, 15, 14, 10, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,1.000000,0.100000,1.000000,50)"
+
+real	0m3.657s
+user	0m6.181s
+sys	0m3.509s
+num peers: 20
+1.79769e+308
+average block time: 9.55473
+total transactions: 945
+average trans time: 1.00637
+[48, 37, 8, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,1.000000,0.500000,10.000000,50)"
+
+real	0m3.702s
+user	0m6.152s
+sys	0m3.561s
+num peers: 20
+1.79769e+308
+average block time: 9.74429
+total transactions: 248
+average trans time: 2.43852
+[49, 24, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,1.000000,2.000000,10.000000,50)"
+
+real	0m3.598s
+user	0m6.142s
+sys	0m3.494s
+num peers: 20
+1.79769e+308
+average block time: 18.7577
+total transactions: 152
+average trans time: 6.66854
+[18, 49, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,1.000000,5.000000,20.000000,50)"
+
+real	0m3.592s
+user	0m6.088s
+sys	0m3.549s
+num peers: 20
+1.79769e+308
+average block time: 56.8851
+total transactions: 268
+average trans time: 11.0074
+[50, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,1.000000,10.000000,50.000000,50)"
+
+real	0m3.523s
+user	0m6.169s
+sys	0m3.383s
+num peers: 20
+1.79769e+308
+average block time: 96.557
+total transactions: 334
+average trans time: 14.9313
+[50, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,1.000000,15.000000,100.000000,50)"
+
+real	0m3.568s
+user	0m6.148s
+sys	0m3.451s
+num peers: 20
+1.79769e+308
+average block time: 746.813
+total transactions: 1847
+average trans time: 20.7074
+[50, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,1.000000,20.000000,600.000000,50)"
+
+real	0m3.833s
+user	0m6.295s
+sys	0m3.539s
+num peers: 20
+1.79769e+308
+average block time: 538.001
+total transactions: 4531
+average trans time: 6.43979
+[50, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,1.000000,6.000000,600.000000,50)"
+
+real	0m4.573s
+user	0m7.236s
+sys	0m3.335s
+num peers: 20
+1.79769e+308
+Invalid Block Generated!
+average block time: 0.0011089
+total transactions: 1096
+average trans time: 0.0563086
+[1, 8, 10, 5, 2, 3, 2, 6, 9, 1, 10, 5, 1, 6, 4, 10, 8, 8, 1, 3, 1, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,1.000000,0.000100,0.001000,100)"
+
+real	0m4.311s
+user	0m6.826s
+sys	0m3.486s
+num peers: 20
+1.79769e+308
+average block time: 1.02225
+total transactions: 1011
+average trans time: 0.597729
+[2, 2, 13, 18, 25, 35, 54, 64, 69, 66, 63, 63, 59, 57, 52, 50, 46, 41, 40, 39, 38, 37, 34, 31, 31, 20, 16, 15, 14, 10, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,1.000000,0.100000,1.000000,100)"
+
+real	0m4.270s
+user	0m6.774s
+sys	0m3.508s
+num peers: 20
+1.79769e+308
+average block time: 9.2706
+total transactions: 1852
+average trans time: 0.995795
+[54, 96, 74, 37, 8, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,1.000000,0.500000,10.000000,100)"
+
+real	0m4.451s
+user	0m7.041s
+sys	0m3.430s
+num peers: 20
+1.79769e+308
+average block time: 10.8336
+total transactions: 515
+average trans time: 2.5805
+[98, 80, 24, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,1.000000,2.000000,10.000000,100)"
+
+real	0m4.058s
+user	0m6.609s
+sys	0m3.496s
+num peers: 20
+1.79769e+308
+average block time: 17.5683
+total transactions: 310
+average trans time: 6.17294
+[18, 97, 86, 61, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,1.000000,5.000000,20.000000,100)"
+
+real	0m4.023s
+user	0m6.567s
+sys	0m3.482s
+num peers: 20
+1.79769e+308
+average block time: 59.1371
+total transactions: 572
+average trans time: 10.8267
+[100, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,1.000000,10.000000,50.000000,100)"
+
+real	0m3.984s
+user	0m6.559s
+sys	0m3.442s
+num peers: 20
+1.79769e+308
+average block time: 96.8252
+total transactions: 675
+average trans time: 14.8385
+[100, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,1.000000,15.000000,100.000000,100)"
+
+real	0m3.997s
+user	0m6.575s
+sys	0m3.423s
+num peers: 20
+1.79769e+308
+average block time: 635.989
+total transactions: 3171
+average trans time: 20.5558
+[100, ]
+[2.28728, 3.65237, 6.14307, 4.06283, 3.29929, 8.90324, 5.23496, 9.18257, 3.72172, 8.48883, 4.26005, 4.17671, 1.38691, 8.11168, 5.5403, 3.63046, 1.94669, 8.129, 1.33433, 6.50771, ]
+python ./Visual/create_graph.py 570436 num_peers20
+python ./Visual/create_blockchain.py 570436 "(20,1.000000,20.000000,600.000000,100)"
+
+real	0m4.658s
+user	0m7.220s
+sys	0m3.438s
+num peers: 50
+1.79769e+308
+average block time: 0.00119116
+total transactions: 590
+average trans time: 0.0294291
+[1, 2, 2, 4, 1, 1, 1, 1, 5, 1, 2, 1, 4, 1, 1, 1, 1, 1, 1, 2, 1, 2, 3, 2, 3, 2, 3, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.000000,0.000100,0.001000,50)"
+
+real	0m9.369s
+user	0m11.915s
+sys	0m3.488s
+num peers: 50
+1.79769e+308
+average block time: 0.976893
+total transactions: 490
+average trans time: 0.610075
+[4, 28, 32, 43, 32, 21, 1, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.000000,0.100000,1.000000,50)"
+
+real	0m9.004s
+user	0m11.484s
+sys	0m3.521s
+num peers: 50
+1.79769e+308
+average block time: 11.8455
+total transactions: 1178
+average trans time: 1.0155
+[50, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.000000,0.500000,10.000000,50)"
+
+real	0m9.946s
+user	0m12.257s
+sys	0m3.688s
+num peers: 50
+1.79769e+308
+average block time: 12.1567
+total transactions: 326
+average trans time: 2.3382
+[48, 14, 5, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.000000,2.000000,10.000000,50)"
+
+real	0m8.398s
+user	0m10.866s
+sys	0m3.544s
+num peers: 50
+1.79769e+308
+average block time: 18.8641
+total transactions: 196
+average trans time: 5.28181
+[50, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.000000,5.000000,20.000000,50)"
+
+real	0m8.132s
+user	0m10.465s
+sys	0m3.681s
+num peers: 50
+1.79769e+308
+average block time: 59.0164
+total transactions: 302
+average trans time: 10.2286
+[50, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.000000,10.000000,50.000000,50)"
+
+real	0m8.272s
+user	0m10.934s
+sys	0m3.353s
+num peers: 50
+1.79769e+308
+average block time: 123.259
+total transactions: 433
+average trans time: 14.7196
+[50, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.000000,15.000000,100.000000,50)"
+
+real	0m8.400s
+user	0m10.866s
+sys	0m3.498s
+num peers: 50
+1.79769e+308
+average block time: 617.794
+total transactions: 1495
+average trans time: 21.1476
+[50, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.000000,20.000000,600.000000,50)"
+
+real	0m10.243s
+user	0m12.770s
+sys	0m3.484s
+num peers: 50
+1.79769e+308
+average block time: 459.231
+total transactions: 3800
+average trans time: 6.53583
+[50, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.000000,6.000000,600.000000,50)"
+
+real	0m15.780s
+user	0m18.116s
+sys	0m3.670s
+num peers: 50
+1.79769e+308
+average block time: 0.00114748
+total transactions: 1134
+average trans time: 0.057454
+[6, 4, 2, 3, 5, 2, 2, 4, 1, 6, 4, 2, 3, 2, 3, 4, 4, 1, 1, 4, 2, 3, 3, 2, 2, 5, 5, 7, 1, 3, 5, 1, 7, 1, 3, 1, 4, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.000000,0.000100,0.001000,100)"
+
+real	0m11.586s
+user	0m13.895s
+sys	0m3.698s
+num peers: 50
+1.79769e+308
+average block time: 1.00493
+total transactions: 983
+average trans time: 0.613282
+[4, 28, 32, 50, 63, 67, 85, 76, 73, 70, 67, 45, 32, 21, 1, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.000000,0.100000,1.000000,100)"
+
+real	0m10.853s
+user	0m13.283s
+sys	0m3.580s
+num peers: 50
+1.79769e+308
+average block time: 10.4478
+total transactions: 2045
+average trans time: 1.01603
+[100, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.000000,0.500000,10.000000,100)"
+
+real	0m13.086s
+user	0m15.593s
+sys	0m3.502s
+num peers: 50
+1.79769e+308
+average block time: 10.5814
+total transactions: 531
+average trans time: 2.48791
+[97, 69, 14, 5, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.000000,2.000000,10.000000,100)"
+
+real	0m9.278s
+user	0m11.726s
+sys	0m3.550s
+num peers: 50
+1.79769e+308
+average block time: 19.6611
+total transactions: 402
+average trans time: 5.35197
+[100, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.000000,5.000000,20.000000,100)"
+
+real	0m9.020s
+user	0m11.487s
+sys	0m3.552s
+num peers: 50
+1.79769e+308
+average block time: 51.5738
+total transactions: 529
+average trans time: 10.245
+[99, 76, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.000000,10.000000,50.000000,100)"
+
+real	0m9.635s
+user	0m11.979s
+sys	0m3.630s
+num peers: 50
+1.79769e+308
+average block time: 129.363
+total transactions: 899
+average trans time: 14.885
+[100, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.000000,15.000000,100.000000,100)"
+
+real	0m10.317s
+user	0m12.525s
+sys	0m3.614s
+num peers: 50
+1.79769e+308
+average block time: 618.896
+total transactions: 3035
+average trans time: 20.8907
+[99, 87, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.000000,20.000000,600.000000,100)"
+
+real	0m16.145s
+user	0m18.437s
+sys	0m3.729s
+num peers: 50
+1.79769e+308
+average block time: 0.00131767
+total transactions: 671
+average trans time: 0.0322216
+[3, 1, 2, 2, 1, 2, 2, 1, 1, 2, 1, 1, 3, 1, 2, 2, 6, 2, 1, 1, 1, 2, 1, 1, 2, 2, 2, 2, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.500000,0.000100,0.001000,50)"
+
+real	0m10.117s
+user	0m12.371s
+sys	0m3.448s
+num peers: 50
+1.79769e+308
+average block time: 0.856787
+total transactions: 407
+average trans time: 0.588127
+[1, 26, 35, 40, 40, 40, 38, 36, 32, 26, 19, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.500000,0.100000,1.000000,50)"
+
+real	0m9.089s
+user	0m11.317s
+sys	0m3.463s
+num peers: 50
+1.79769e+308
+average block time: 9.71472
+total transactions: 969
+average trans time: 1.0012
+[49, 48, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.500000,0.500000,10.000000,50)"
+
+real	0m9.688s
+user	0m12.128s
+sys	0m3.573s
+num peers: 50
+1.79769e+308
+average block time: 9.3441
+total transactions: 252
+average trans time: 2.36571
+[20, 49, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.500000,2.000000,10.000000,50)"
+
+real	0m8.535s
+user	0m10.795s
+sys	0m3.711s
+num peers: 50
+1.79769e+308
+average block time: 21.4325
+total transactions: 229
+average trans time: 5.12348
+[50, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.500000,5.000000,20.000000,50)"
+
+real	0m8.423s
+user	0m10.738s
+sys	0m3.637s
+num peers: 50
+1.79769e+308
+average block time: 46.6335
+total transactions: 254
+average trans time: 9.61977
+[50, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.500000,10.000000,50.000000,50)"
+
+real	0m8.652s
+user	0m11.034s
+sys	0m3.530s
+num peers: 50
+1.79769e+308
+average block time: 104.136
+total transactions: 349
+average trans time: 15.3559
+[50, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.500000,15.000000,100.000000,50)"
+
+real	0m8.577s
+user	0m10.745s
+sys	0m3.588s
+num peers: 50
+1.79769e+308
+average block time: 642.93
+total transactions: 1553
+average trans time: 21.1885
+[50, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.500000,20.000000,600.000000,50)"
+
+real	0m10.486s
+user	0m12.864s
+sys	0m3.602s
+num peers: 50
+1.79769e+308
+average block time: 460.686
+total transactions: 3802
+average trans time: 6.55068
+[49, 21, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.500000,6.000000,600.000000,50)"
+
+real	0m15.662s
+user	0m17.874s
+sys	0m3.752s
+num peers: 50
+1.79769e+308
+average block time: 0.00118163
+total transactions: 1168
+average trans time: 0.0581351
+[8, 3, 4, 2, 1, 3, 2, 2, 1, 1, 5, 5, 2, 1, 3, 1, 1, 3, 3, 3, 3, 3, 4, 2, 2, 8, 4, 4, 2, 1, 2, 1, 3, 2, 2, 1, 2, 7, 2, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.500000,0.000100,0.001000,100)"
+
+real	0m11.994s
+user	0m14.409s
+sys	0m3.604s
+num peers: 50
+1.79769e+308
+average block time: 0.828891
+total transactions: 792
+average trans time: 0.595087
+[1, 26, 35, 52, 69, 78, 76, 73, 73, 68, 67, 65, 59, 55, 48, 45, 40, 40, 38, 36, 32, 26, 19, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.500000,0.100000,1.000000,100)"
+
+real	0m10.286s
+user	0m12.604s
+sys	0m3.680s
+num peers: 50
+1.79769e+308
+average block time: 9.21317
+total transactions: 1836
+average trans time: 0.996629
+[97, 87, 54, 48, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.500000,0.500000,10.000000,100)"
+
+real	0m12.621s
+user	0m14.988s
+sys	0m3.554s
+num peers: 50
+1.79769e+308
+average block time: 10.4483
+total transactions: 525
+average trans time: 2.49773
+[20, 81, 92, 97, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.500000,2.000000,10.000000,100)"
+
+real	0m9.449s
+user	0m11.887s
+sys	0m3.560s
+num peers: 50
+1.79769e+308
+average block time: 20.6697
+total transactions: 417
+average trans time: 5.43913
+[100, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.500000,5.000000,20.000000,100)"
+
+real	0m9.086s
+user	0m11.417s
+sys	0m3.687s
+num peers: 50
+1.79769e+308
+average block time: 45.3295
+total transactions: 462
+average trans time: 10.3046
+[100, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.500000,10.000000,50.000000,100)"
+
+real	0m9.112s
+user	0m11.629s
+sys	0m3.483s
+num peers: 50
+1.79769e+308
+average block time: 88.5792
+total transactions: 604
+average trans time: 15.1629
+[100, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.500000,15.000000,100.000000,100)"
+
+real	0m9.400s
+user	0m11.743s
+sys	0m3.661s
+num peers: 50
+1.79769e+308
+average block time: 570.328
+total transactions: 2827
+average trans time: 20.6579
+[100, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,0.500000,20.000000,600.000000,100)"
+
+real	0m14.549s
+user	0m16.894s
+sys	0m3.676s
+num peers: 50
+1.79769e+308
+average block time: 0.000980482
+total transactions: 511
+average trans time: 0.0252156
+[1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 3, 1, 1, 5, 5, 2, 3, 1, 4, 5, 2, 1, 1, 1, 1, 1, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,1.000000,0.000100,0.001000,50)"
+
+real	0m9.267s
+user	0m11.777s
+sys	0m3.501s
+num peers: 50
+1.79769e+308
+average block time: 1.11014
+total transactions: 547
+average trans time: 0.601563
+[19, 24, 30, 43, 28, 23, 12, 1, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,1.000000,0.100000,1.000000,50)"
+
+real	0m9.007s
+user	0m11.252s
+sys	0m3.761s
+num peers: 50
+1.79769e+308
+average block time: 9.8324
+total transactions: 996
+average trans time: 0.99275
+[49, 32, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,1.000000,0.500000,10.000000,50)"
+
+real	0m9.770s
+user	0m12.189s
+sys	0m3.561s
+num peers: 50
+1.79769e+308
+average block time: 10.2988
+total transactions: 260
+average trans time: 2.468
+[49, 44, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,1.000000,2.000000,10.000000,50)"
+
+real	0m8.375s
+user	0m10.700s
+sys	0m3.673s
+num peers: 50
+1.79769e+308
+average block time: 20.1039
+total transactions: 186
+average trans time: 5.9093
+[50, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,1.000000,5.000000,20.000000,50)"
+
+real	0m8.118s
+user	0m10.482s
+sys	0m3.646s
+num peers: 50
+1.79769e+308
+average block time: 49.172
+total transactions: 249
+average trans time: 10.247
+[49, 31, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,1.000000,10.000000,50.000000,50)"
+
+real	0m8.257s
+user	0m10.576s
+sys	0m3.680s
+num peers: 50
+1.79769e+308
+average block time: 106.123
+total transactions: 343
+average trans time: 15.9203
+[50, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,1.000000,15.000000,100.000000,50)"
+
+real	0m8.286s
+user	0m10.780s
+sys	0m3.505s
+num peers: 50
+1.79769e+308
+average block time: 516.027
+total transactions: 1255
+average trans time: 21.0371
+[49, 41, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,1.000000,20.000000,600.000000,50)"
+
+real	0m9.904s
+user	0m12.267s
+sys	0m3.665s
+num peers: 50
+1.79769e+308
+average block time: 663.734
+total transactions: 5522
+average trans time: 6.50408
+[50, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,1.000000,6.000000,600.000000,50)"
+
+real	0m20.345s
+user	0m22.631s
+sys	0m3.735s
+num peers: 50
+1.79769e+308
+average block time: 0.000962405
+total transactions: 959
+average trans time: 0.0471718
+[2, 2, 2, 2, 4, 3, 7, 2, 2, 3, 4, 2, 2, 1, 3, 6, 4, 5, 1, 2, 7, 7, 1, 2, 1, 2, 2, 1, 5, 6, 4, 1, 1, 5, 1, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,1.000000,0.000100,0.001000,100)"
+
+real	0m11.243s
+user	0m13.571s
+sys	0m3.664s
+num peers: 50
+1.79769e+308
+average block time: 1.21667
+total transactions: 1190
+average trans time: 0.606753
+[19, 24, 30, 54, 84, 76, 74, 73, 67, 52, 50, 46, 43, 28, 23, 12, 1, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,1.000000,0.100000,1.000000,100)"
+
+real	0m11.397s
+user	0m13.834s
+sys	0m3.568s
+num peers: 50
+1.79769e+308
+average block time: 10.8487
+total transactions: 2153
+average trans time: 1.00454
+[98, 91, 32, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,1.000000,0.500000,10.000000,100)"
+
+real	0m13.767s
+user	0m16.153s
+sys	0m3.621s
+num peers: 50
+1.79769e+308
+average block time: 10.3062
+total transactions: 540
+average trans time: 2.41473
+[98, 91, 44, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,1.000000,2.000000,10.000000,100)"
+
+real	0m9.424s
+user	0m11.873s
+sys	0m3.553s
+num peers: 50
+1.79769e+308
+average block time: 18.6231
+total transactions: 339
+average trans time: 5.97602
+[99, 69, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,1.000000,5.000000,20.000000,100)"
+
+real	0m8.948s
+user	0m11.452s
+sys	0m3.510s
+num peers: 50
+1.79769e+308
+average block time: 48.371
+total transactions: 506
+average trans time: 10.0335
+[99, 31, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,1.000000,10.000000,50.000000,100)"
+
+real	0m9.310s
+user	0m11.663s
+sys	0m3.670s
+num peers: 50
+1.79769e+308
+average block time: 97.9203
+total transactions: 615
+average trans time: 16.3982
+[100, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,1.000000,15.000000,100.000000,100)"
+
+real	0m9.407s
+user	0m11.789s
+sys	0m3.607s
+num peers: 50
+1.79769e+308
+average block time: 550.315
+total transactions: 2712
+average trans time: 20.7984
+[99, 41, ]
+[0.668889, 1.20764, 2.19062, 1.36963, 1.06829, 3.27995, 1.83222, 3.39019, 1.23501, 3.1164, 1.44746, 1.41457, 0.31355, 2.96755, 1.95273, 1.19899, 0.534475, 2.97439, 0.2928, 2.33453, 2.0423, 2.33898, 2.70403, 2.64646, 0.556109, 2.50502, 2.81358, 0.882083, 3.25086, 2.23992, 1.35883, 2.2095, 1.691, 3.33439, 2.62447, 2.59601, 2.96064, 2.35495, 3.22151, 2.25454, 1.89067, 2.34881, 2.71269, 2.58591, 2.68012, 2.54017, 0.385157, 0.752851, 1.77732, 0.951256, ]
+python ./Visual/create_graph.py 570436 num_peers50
+python ./Visual/create_blockchain.py 570436 "(50,1.000000,20.000000,600.000000,100)"
+
+real	0m14.577s
+user	0m17.021s
+sys	0m3.582s
+num peers: 100
+1.79769e+308
+average block time: 0.00103708
+total transactions: 507
+average trans time: 0.0269142
+[2, 1, 1, 3, 3, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 2, 1, 1, 3, 1, 2, 4, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.000000,0.000100,0.001000,50)"
+
+real	0m29.751s
+user	0m31.662s
+sys	0m4.069s
+num peers: 100
+1.79769e+308
+average block time: 0.904645
+total transactions: 451
+average trans time: 0.599895
+[45, 44, 37, 25, 18, 12, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.000000,0.100000,1.000000,50)"
+
+real	0m28.026s
+user	0m30.031s
+sys	0m3.981s
+num peers: 100
+1.79769e+308
+average block time: 8.96152
+total transactions: 897
+average trans time: 1.00192
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.000000,0.500000,10.000000,50)"
+
+real	0m32.116s
+user	0m34.155s
+sys	0m3.963s
+num peers: 100
+1.79769e+308
+average block time: 9.31587
+total transactions: 216
+average trans time: 2.67414
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.000000,2.000000,10.000000,50)"
+
+real	0m24.459s
+user	0m26.591s
+sys	0m3.876s
+num peers: 100
+1.79769e+308
+average block time: 19.677
+total transactions: 188
+average trans time: 5.7171
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.000000,5.000000,20.000000,50)"
+
+real	0m24.255s
+user	0m26.311s
+sys	0m3.947s
+num peers: 100
+1.79769e+308
+average block time: 48.821
+total transactions: 225
+average trans time: 11.2919
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.000000,10.000000,50.000000,50)"
+
+real	0m24.394s
+user	0m26.284s
+sys	0m4.128s
+num peers: 100
+1.79769e+308
+average block time: 115.217
+total transactions: 360
+average trans time: 16.4621
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.000000,15.000000,100.000000,50)"
+
+real	0m25.545s
+user	0m27.555s
+sys	0m4.000s
+num peers: 100
+1.79769e+308
+average block time: 589.735
+total transactions: 1405
+average trans time: 21.4791
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.000000,20.000000,600.000000,50)"
+
+real	0m36.949s
+user	0m38.817s
+sys	0m4.116s
+num peers: 100
+1.79769e+308
+average block time: 549.931
+total transactions: 4528
+average trans time: 6.57149
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.000000,6.000000,600.000000,50)"
+
+real	1m20.016s
+user	1m21.752s
+sys	0m4.254s
+num peers: 100
+1.79769e+308
+average block time: 0.000982264
+total transactions: 951
+average trans time: 0.049086
+[1, 5, 6, 3, 2, 1, 3, 3, 2, 2, 3, 3, 2, 2, 2, 2, 1, 2, 3, 1, 3, 4, 6, 2, 3, 2, 2, 4, 2, 2, 2, 3, 1, 3, 1, 3, 4, 3, 1, 2, 1, 2, 3, 2, 3, 1, 1, 1, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.000000,0.000100,0.001000,100)"
+
+real	0m38.508s
+user	0m40.161s
+sys	0m4.317s
+num peers: 100
+1.79769e+308
+average block time: 1.02309
+total transactions: 1000
+average trans time: 0.598283
+[61, 91, 85, 74, 58, 44, 37, 25, 18, 12, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.000000,0.100000,1.000000,100)"
+
+real	0m39.032s
+user	0m41.176s
+sys	0m3.866s
+num peers: 100
+1.79769e+308
+average block time: 8.71867
+total transactions: 1713
+average trans time: 1.00799
+[100, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.000000,0.500000,10.000000,100)"
+
+real	0m46.551s
+user	0m48.378s
+sys	0m4.175s
+num peers: 100
+1.79769e+308
+average block time: 10.7079
+total transactions: 530
+average trans time: 2.5248
+[100, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.000000,2.000000,10.000000,100)"
+
+real	0m29.410s
+user	0m31.098s
+sys	0m4.320s
+num peers: 100
+1.79769e+308
+average block time: 19.0197
+total transactions: 384
+average trans time: 5.44798
+[100, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.000000,5.000000,20.000000,100)"
+
+real	0m27.104s
+user	0m29.109s
+sys	0m3.997s
+num peers: 100
+1.79769e+308
+average block time: 48.0162
+total transactions: 462
+average trans time: 10.8781
+[100, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.000000,10.000000,50.000000,100)"
+
+real	0m27.771s
+user	0m29.732s
+sys	0m4.053s
+num peers: 100
+1.79769e+308
+average block time: 107.341
+total transactions: 719
+average trans time: 15.4185
+[100, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.000000,15.000000,100.000000,100)"
+
+real	0m31.185s
+user	0m32.984s
+sys	0m4.202s
+num peers: 100
+1.79769e+308
+average block time: 564.773
+total transactions: 2660
+average trans time: 21.7163
+[100, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.000000,20.000000,600.000000,100)"
+
+real	0m58.880s
+user	1m0.810s
+sys	0m4.058s
+num peers: 100
+1.79769e+308
+average block time: 0.00128613
+total transactions: 627
+average trans time: 0.0324445
+[1, 2, 4, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 2, 1, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 1, 2, 2, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.500000,0.000100,0.001000,50)"
+
+real	0m31.799s
+user	0m33.611s
+sys	0m4.205s
+num peers: 100
+1.79769e+308
+average block time: 0.953234
+total transactions: 474
+average trans time: 0.602554
+[9, 45, 31, 27, 20, 17, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.500000,0.100000,1.000000,50)"
+
+real	0m28.874s
+user	0m30.906s
+sys	0m3.998s
+num peers: 100
+1.79769e+308
+average block time: 10.7725
+total transactions: 1010
+average trans time: 1.0247
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.500000,0.500000,10.000000,50)"
+
+real	0m33.110s
+user	0m35.233s
+sys	0m3.877s
+num peers: 100
+1.79769e+308
+average block time: 8.89251
+total transactions: 186
+average trans time: 2.90106
+[49, 45, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.500000,2.000000,10.000000,50)"
+
+real	0m24.492s
+user	0m26.607s
+sys	0m3.860s
+num peers: 100
+1.79769e+308
+average block time: 16.0607
+total transactions: 145
+average trans time: 6.0225
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.500000,5.000000,20.000000,50)"
+
+real	0m23.847s
+user	0m25.869s
+sys	0m3.995s
+num peers: 100
+1.79769e+308
+average block time: 46.1333
+total transactions: 216
+average trans time: 11.1725
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.500000,10.000000,50.000000,50)"
+
+real	0m24.478s
+user	0m26.433s
+sys	0m4.050s
+num peers: 100
+1.79769e+308
+average block time: 73.7508
+total transactions: 218
+average trans time: 17.3573
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.500000,15.000000,100.000000,50)"
+
+real	0m24.167s
+user	0m26.235s
+sys	0m3.947s
+num peers: 100
+1.79769e+308
+average block time: 715.285
+total transactions: 1739
+average trans time: 21.0524
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.500000,20.000000,600.000000,50)"
+
+real	0m40.363s
+user	0m42.296s
+sys	0m4.062s
+num peers: 100
+1.79769e+308
+average block time: 772.795
+total transactions: 6403
+average trans time: 6.52894
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.500000,6.000000,600.000000,50)"
+
+real	1m57.453s
+user	1m58.901s
+sys	0m4.547s
+num peers: 100
+1.79769e+308
+Invalid Block Generated!
+Invalid Block Generated!
+average block time: 0.00116866
+total transactions: 1129
+average trans time: 0.0586053
+[2, 4, 3, 1, 1, 3, 5, 3, 1, 2, 4, 3, 2, 2, 5, 4, 5, 3, 2, 1, 1, 1, 3, 2, 2, 1, 1, 1, 4, 1, 2, 2, 1, 2, 2, 1, 3, 1, 1, 1, 2, 1, 3, 2, 1, 3, 1, 2, 2, 1, 2, 2, 2, 1, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.500000,0.000100,0.001000,100)"
+
+real	0m42.745s
+user	0m44.602s
+sys	0m4.148s
+num peers: 100
+1.79769e+308
+average block time: 0.870426
+total transactions: 871
+average trans time: 0.589119
+[9, 55, 67, 69, 69, 85, 83, 79, 69, 67, 59, 52, 31, 27, 20, 17, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.500000,0.100000,1.000000,100)"
+
+real	0m36.806s
+user	0m38.703s
+sys	0m4.101s
+num peers: 100
+1.79769e+308
+average block time: 10.0921
+total transactions: 1959
+average trans time: 1.0135
+[58, 99, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.500000,0.500000,10.000000,100)"
+
+real	0m50.322s
+user	0m52.149s
+sys	0m4.186s
+num peers: 100
+1.79769e+308
+average block time: 9.74289
+total transactions: 457
+average trans time: 2.62459
+[99, 45, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.500000,2.000000,10.000000,100)"
+
+real	0m28.352s
+user	0m30.347s
+sys	0m4.005s
+num peers: 100
+1.79769e+308
+average block time: 20.2097
+total transactions: 396
+average trans time: 5.59421
+[100, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.500000,5.000000,20.000000,100)"
+
+real	0m27.530s
+user	0m29.637s
+sys	0m3.874s
+num peers: 100
+1.79769e+308
+average block time: 50.9562
+total transactions: 526
+average trans time: 10.2006
+[100, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.500000,10.000000,50.000000,100)"
+
+real	0m29.327s
+user	0m31.494s
+sys	0m3.863s
+num peers: 100
+1.79769e+308
+average block time: 92.897
+total transactions: 597
+average trans time: 16.0705
+[100, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.500000,15.000000,100.000000,100)"
+
+real	0m29.907s
+user	0m31.848s
+sys	0m4.078s
+num peers: 100
+1.79769e+308
+average block time: 709.781
+total transactions: 3403
+average trans time: 21.3432
+[100, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,0.500000,20.000000,600.000000,100)"
+
+real	1m11.810s
+user	1m13.604s
+sys	0m4.213s
+num peers: 100
+1.79769e+308
+average block time: 0.00102409
+total transactions: 511
+average trans time: 0.0263334
+[1, 2, 3, 3, 1, 1, 2, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 3, 1, 1, 2, 2, 1, 2, 2, 1, 1, 2, 1, 1, 1, 1, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,1.000000,0.000100,0.001000,50)"
+
+real	0m30.284s
+user	0m32.230s
+sys	0m4.046s
+num peers: 100
+1.79769e+308
+average block time: 1.36224
+total transactions: 647
+average trans time: 0.614912
+[7, 42, 42, 35, 35, 27, 20, 17, 12, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,1.000000,0.100000,1.000000,50)"
+
+real	0m30.546s
+user	0m32.589s
+sys	0m3.966s
+num peers: 100
+1.79769e+308
+average block time: 12.9785
+total transactions: 1306
+average trans time: 1.00176
+[4, 48, 47, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,1.000000,0.500000,10.000000,50)"
+
+real	0m36.774s
+user	0m38.663s
+sys	0m4.121s
+num peers: 100
+1.79769e+308
+average block time: 6.931
+total transactions: 157
+average trans time: 2.66798
+[49, 48, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,1.000000,2.000000,10.000000,50)"
+
+real	0m24.039s
+user	0m26.102s
+sys	0m3.944s
+num peers: 100
+1.79769e+308
+average block time: 21.5879
+total transactions: 214
+average trans time: 5.53874
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,1.000000,5.000000,20.000000,50)"
+
+real	0m24.472s
+user	0m26.460s
+sys	0m4.016s
+num peers: 100
+1.79769e+308
+average block time: 40.2424
+total transactions: 193
+average trans time: 10.9455
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,1.000000,10.000000,50.000000,50)"
+
+real	0m24.206s
+user	0m26.174s
+sys	0m4.050s
+num peers: 100
+1.79769e+308
+average block time: 114.97
+total transactions: 338
+average trans time: 17.3923
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,1.000000,15.000000,100.000000,50)"
+
+real	0m25.233s
+user	0m27.186s
+sys	0m4.055s
+num peers: 100
+1.79769e+308
+average block time: 557.917
+total transactions: 1397
+average trans time: 20.4663
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,1.000000,20.000000,600.000000,50)"
+
+real	0m36.358s
+user	0m38.370s
+sys	0m3.997s
+num peers: 100
+1.79769e+308
+average block time: 452.118
+total transactions: 3755
+average trans time: 6.51768
+[50, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,1.000000,6.000000,600.000000,50)"
+
+real	1m9.330s
+user	1m11.119s
+sys	0m4.227s
+num peers: 100
+1.79769e+308
+Invalid Block Generated!
+average block time: 0.00107824
+total transactions: 1073
+average trans time: 0.0543226
+[2, 3, 3, 4, 4, 4, 2, 1, 2, 3, 1, 2, 1, 3, 2, 2, 1, 1, 1, 3, 2, 2, 1, 2, 1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 2, 2, 2, 1, 3, 2, 3, 2, 3, 4, 2, 1, 3, 1, 1, 2, 1, 2, 1, 1, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,1.000000,0.000100,0.001000,100)"
+
+real	0m41.417s
+user	0m43.247s
+sys	0m4.181s
+num peers: 100
+1.79769e+308
+average block time: 1.27046
+total transactions: 1274
+average trans time: 0.59584
+[7, 42, 88, 82, 71, 53, 46, 35, 35, 27, 20, 17, 12, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,1.000000,0.100000,1.000000,100)"
+
+real	0m43.638s
+user	0m45.405s
+sys	0m4.222s
+num peers: 100
+1.79769e+308
+average block time: 11.1719
+total transactions: 2262
+average trans time: 1.00244
+[4, 63, 97, 47, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,1.000000,0.500000,10.000000,100)"
+
+real	0m54.411s
+user	0m56.127s
+sys	0m4.279s
+num peers: 100
+1.79769e+308
+average block time: 8.85201
+total transactions: 436
+average trans time: 2.51789
+[99, 48, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,1.000000,2.000000,10.000000,100)"
+
+real	0m28.387s
+user	0m30.312s
+sys	0m4.089s
+num peers: 100
+1.79769e+308
+average block time: 20.8581
+total transactions: 427
+average trans time: 5.38654
+[100, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,1.000000,5.000000,20.000000,100)"
+
+real	0m27.797s
+user	0m29.789s
+sys	0m4.012s
+num peers: 100
+1.79769e+308
+average block time: 43.3401
+total transactions: 416
+average trans time: 10.9185
+[99, 93, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,1.000000,10.000000,50.000000,100)"
+
+real	0m27.698s
+user	0m29.726s
+sys	0m3.973s
+num peers: 100
+1.79769e+308
+average block time: 108.023
+total transactions: 636
+average trans time: 17.483
+[100, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,1.000000,15.000000,100.000000,100)"
+
+real	0m30.261s
+user	0m32.268s
+sys	0m4.010s
+num peers: 100
+1.79769e+308
+average block time: 615.555
+total transactions: 3072
+average trans time: 20.5404
+[100, ]
+[0.322511, 0.613401, 1.14415, 0.700866, 0.538161, 1.73231, 0.950635, 1.79184, 0.628178, 1.64401, 0.742891, 0.725133, 0.130651, 1.56364, 1.0157, 0.608732, 0.249936, 1.56733, 0.119448, 1.22185, 1.06406, 1.22425, 1.42135, 1.39027, 0.261618, 1.3139, 1.48051, 0.437622, 1.71661, 1.17076, 0.695036, 1.15434, 0.874384, 1.76171, 1.3784, 1.36303, 1.55991, 1.23287, 1.70076, 1.17866, 0.982195, 1.22956, 1.42603, 1.35758, 1.40845, 1.33288, 0.169315, 0.367845, 0.920993, 0.474971, 1.755, 0.321192, 0.212093, 0.886169, 0.558202, 0.727017, 1.30395, 1.68896, 1.04518, 1.07955, 0.931493, 1.24143, 0.226699, 1.79268, 0.561021, 1.1219, 1.00574, 1.30461, 1.79339, 0.441996, 0.994596, 0.463288, 0.159579, 0.557618, 1.35433, 0.789373, 0.580469, 1.7619, 1.54807, 0.702259, 1.2727, 0.945094, 1.60538, 0.197749, 1.51962, 0.427991, 0.452556, 0.696893, 0.782105, 0.688202, 0.646523, 0.306222, 1.41965, 0.316668, 0.246015, 1.59681, 1.19792, 1.59372, 1.27633, 1.84086, ]
+python ./Visual/create_graph.py 570436 num_peers100
+python ./Visual/create_blockchain.py 570436 "(100,1.000000,20.000000,600.000000,100)"
+
+real	1m7.364s
+user	1m9.219s
+sys	0m4.165s
+
+real	49m0.489s
+user	59m8.389s
+sys	15m23.305s

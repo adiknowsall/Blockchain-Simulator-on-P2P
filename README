@@ -1,0 +1,23 @@
+Tested on Linux, following is the output of:
+    aditya@aditya:~$ g++ --version
+    g++ (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0
+    Copyright (C) 2019 Free Software Foundation, Inc.
+    This is free software; see the source for copying conditions.  There is NO
+    warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Open the folder source_code
+Open a terminal in the directory, run make. It uses g++ compiler with -O2 optimization option.
+Now run the program using:
+
+    ./a.out n z t T max_blocks seed
+
+where n denotes number of peers
+      z is as mentioned in the problem statement
+      t is overall transaction interarrival time (average time between any (from any peer) 2 successive transactions)
+      T is overall block interarrival time (average time between any 2 successive block minings)
+      max_blocks is total number of blocks after which you want to stop the simulation
+      seed is the random seed for the whole program
+
+With the current program state, there would be some output generated in the terminal,
+and the block arrival times for each peer would be saved in a file called "peer{i}" for ith peer in the directory "./block_arrival_times/"
+
